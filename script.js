@@ -43,7 +43,7 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "Iya",
-    "Beneram?",
+    "Beneran?",
     "Plis Sayang",
     "Km beneran Gmw :(",
     "Aku Sedih :'(",
